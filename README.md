@@ -3,7 +3,7 @@
 The project created in flutter web for admin and mobile for our users, clone the appropriate branches mentioned below:
 
 * For Mobile: https://github.com/bukiy/Solnchal/tree/main/EAgric
-* For Web: https://github.com/bukiy/Solnchal/eAgric_admin
+* For Web: https://github.com/bukiy/Solnchal/tree/main/eAgric_admin
 
 
 ## How to Use 
